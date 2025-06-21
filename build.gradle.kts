@@ -1,3 +1,3 @@
 plugins {
-  id("roundalib") version "0.7.0-SNAPSHOT"
+  id("roundalib-gradle") version "1.0.0"
 }
