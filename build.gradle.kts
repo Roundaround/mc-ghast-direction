@@ -10,7 +10,7 @@ allay {
   homepage.set("https://modrinth.com/mod/ghast-direction")
   repository.set("https://github.com/Roundaround/mc-fabric-ghast-direction")
   issues.set("https://github.com/Roundaround/mc-fabric-ghast-direction/issues")
-  logoFile.set("assets/ghastdirection/icon.png")
+  logoFile.set("assets/ghastdirection/banner.png")
 
   modrinth {
     projectId.set("ghast-direction")

@@ -1,15 +1,14 @@
-# Roundaround's Ghast Direction
+![Ghast Direction](https://imgur.com/sFY8qdZ.png)
 
-<img src="https://img.shields.io/badge/Loader-Fabric-%23313e51?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MC-1.20%20|%201.19--1.19.4-%23313e51?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Side-Server-%23313e51?style=for-the-badge"/>
+![](https://img.shields.io/badge/Loader-Fabric-%23313e51?style=for-the-badge)
+![](https://img.shields.io/badge/MC-26.1--26.1.2%20|%201.21%20|%201.20%20|%201.19-%23313e51?style=for-the-badge)
+![](https://img.shields.io/badge/Side-Server-%23313e51?style=for-the-badge)
 
-Fix bug where ghasts always face the same direction while not moving.
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/ghast-direction?style=flat&logo=modrinth&color=00AF5C)](https://modrinth.com/mod/ghast-direction)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Roundaround/mc-fabric-ghast-direction?style=flat&logo=github)](https://github.com/Roundaround/mc-fabric-ghast-direction)
 
-## Download
+[![Support me on Ko-fi](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/kofi-singular-alt_vector.svg)](https://ko-fi.com/roundaround)
 
-https://modrinth.com/mod/ghast-direction
+---
 
-## License
-
-This mod is available under the MIT license. Please see the LICENSE file for more info.
+Fixes a bug where ghasts always face the same direction while not moving. In vanilla Minecraft, ghasts will always face the direction they are "moving", even when completely still, which always turns them to face South. This adds a check to prevent turning them when they are not moving!
