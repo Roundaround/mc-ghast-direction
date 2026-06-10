@@ -8,8 +8,8 @@ allay {
   authors.set(listOf("Roundaround"))
   license.set("MIT")
   homepage.set("https://modrinth.com/mod/ghast-direction")
-  repository.set("https://github.com/Roundaround/mc-fabric-ghast-direction")
-  issues.set("https://github.com/Roundaround/mc-fabric-ghast-direction/issues")
+  repository.set("https://github.com/Roundaround/mc-ghast-direction")
+  issues.set("https://github.com/Roundaround/mc-ghast-direction/issues")
   logoFile.set("assets/ghastdirection/banner.png")
 
   modrinth {
